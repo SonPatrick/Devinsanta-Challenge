@@ -1,0 +1,10 @@
+package desafioDevInSanta2;
+
+public class desafioDevInSanta2{
+
+  public static void main (String Args[]){
+      for(int i=2; i<=300; i++){
+        System.out.println("["+i+"] = " + i*i);
+      }
+   }
+}
